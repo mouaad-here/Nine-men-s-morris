@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1737927292 source:d:\c_project\juedemoulin\src\main.c
+	"../include/interface_menu.h"
+
+1739025036 d:\c_project\juedemoulin\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1736251701 d:\c_project\juedemoulin\src\interface_menu.c
+	<stdio.h>
+	<windows.h>
+	"../include/color.h"
+
+1739023944 d:\c_project\juedemoulin\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739025036 source:d:\c_project\juedemoulin\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739316393 source:d:\c_project\juedemoulin\src\interface_menu.c
+	"../include/color.h"
+	"../include/board.h"
+	"../include/interface_menu.h"
+
+1739105195 source:d:\c_project\juedemoulin\src\color.c
+	<windows.h>
+	"../include/board.h"
+
+1739023944 source:d:\c_project\juedemoulin\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739103386 source:d:\c_project\juedemoulin\include\board.h
+	<stdbool.h>
+
+1739103386 d:\c_project\juedemoulin\include\board.h
+	<stdbool.h>
+
+1739314376 source:d:\c_project\juedemoulin\src\board.c
+	"../include/color.h"
+	"../include/board.h"
+
+1739319301 source:d:\c_project\juedemoulin\src\algorithme.c
+	"../include/board.h"
+	"../include/color.h"
+	"../include/algorithme.h"
+
+1739317523 d:\c_project\juedemoulin\include\algorithme.h
+	<time.h>
+
+1739392838 source:c:\users\dell\desktop\juedemoulin\include\board.h
+	<stdbool.h>
+
+1739321956 source:c:\users\dell\desktop\juedemoulin\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739321956 source:c:\users\dell\desktop\juedemoulin\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739321955 source:c:\users\dell\desktop\juedemoulin\src\board.c
+	"../include/color.h"
+	"../include/board.h"
+
+1739321956 c:\users\dell\desktop\juedemoulin\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739392838 c:\users\dell\desktop\juedemoulin\include\board.h
+	<stdbool.h>
+
+1739321955 source:c:\users\dell\desktop\juedemoulin\src\color.c
+	<windows.h>
+	"../include/board.h"
+
+1739392973 source:c:\users\dell\desktop\juedemoulin\src\interface_menu.c
+	"../include/color.h"
+	"../include/board.h"
+	"../include/interface_menu.h"
+
+1739321956 c:\users\dell\desktop\juedemoulin\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739321956 source:c:\users\dell\desktop\juedemoulin\src\main.c
+	"../include/interface_menu.h"
+
+1739398456 source:c:\users\dell\desktop\juedemoulin\src\algorithme.c
+	"../include/board.h"
+	"../include/color.h"
+	"../include/algorithme.h"
+
+1739396161 c:\users\dell\desktop\juedemoulin\include\algorithme.h
+	<time.h>
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\board.h
+	<stdbool.h>
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739574047 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\src\algorithme.c
+	"../include/board.h"
+	"../include/color.h"
+	"../include/algorithme.h"
+
+1739573910 c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\board.h
+	<stdbool.h>
+
+1739573910 c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739573910 c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\algorithme.h
+	<time.h>
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\src\board.c
+	"../include/color.h"
+	"../include/board.h"
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\src\color.c
+	<windows.h>
+	"../include/board.h"
+
+1739573910 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\src\main.c
+	"../include/interface_menu.h"
+
+1739573910 c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739573989 source:c:\users\mouad\downloads\juedemoulin2-20250214t225428z-001\juedemoulin2\src\interface_menu.c
+	"../include/color.h"
+	"../include/board.h"
+	"../include/interface_menu.h"
+
+1739573910 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\board.h
+	<stdbool.h>
+
+1739573910 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739574047 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\src\algorithme.c
+	"../include/board.h"
+	"../include/color.h"
+	"../include/algorithme.h"
+
+1739573910 c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\board.h
+	<stdbool.h>
+
+1739573910 c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739573910 c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\algorithme.h
+	<time.h>
+
+1739573910 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\src\board.c
+	"../include/color.h"
+	"../include/board.h"
+
+1739573910 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\src\color.c
+	<windows.h>
+	"../include/board.h"
+
+1739573910 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\src\main.c
+	"../include/interface_menu.h"
+
+1739626111 c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739626111 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\include\interface_menu.h
+	<fcntl.h>
+	<string.h>
+	<synchapi.h>
+
+1739626433 source:c:\users\mouad\documents\soutenance\2025_projetc_gi_anass_akby_mouaad_kaddouri\juedemoulin2\src\interface_menu.c
+	"../include/color.h"
+	"../include/board.h"
+	"../include/interface_menu.h"
+
