@@ -1,0 +1,18 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore compiled object files
+*.o
+
+# Ignore precompiled headers
+*.gch
+
+# Ignore Code::Blocks generated dependency and layout files
+*.depend
+*.layout
+
+# Backup or temporary files
+*.bak
+*.tmp
+
